@@ -7,5 +7,3 @@
     instagram: https://www.instagram.com/emanuele.conte_15
     Discord: emanuele5200
     linkedin: https://www.linkedin.com/in/emanuele-conte-a2402a235/
-
-opsadjfopasdfhjp
