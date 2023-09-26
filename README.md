@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @CoffeeCode15
+- 👋 Hi, I’m Emanuele Conte
 - 👀 I’m interested in Data Analysis and Java developing
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and MySQL
 - 📫 How to reach me:
     email: conte.emanuele@protonmail.com
     twitter: https://twitter.com/EmaCon_15
