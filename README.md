@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Emanuele Conte
-- 👀 I’m interested in Data Analysis and Java developing
+- 👀 I’m interested in Data Analysis and programming
 - 🌱 I’m currently learning Java and MySQL
 - 📫 How to reach me:
     email: conte.emanuele@protonmail.com
